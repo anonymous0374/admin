@@ -9,6 +9,7 @@ sudo apt install shutter
 sudo apt install di
 sudo apt install tree
 sudo apt install glipper
+sudo apt install libsodium-dev
 
 # install tools from packages
 
