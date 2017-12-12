@@ -20,6 +20,10 @@ sudo apt-get update
 sudo apt-get install -y mongodb-org
 sudo service mongod start
 
+# setup keystone.js
+sudo npm install -g generator-keystone
+sudo npm install -g yo
+
 # install tools from packages
 
 # setup shadowsocksr
