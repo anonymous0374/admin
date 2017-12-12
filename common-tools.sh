@@ -2,6 +2,7 @@
 sudo apt update && sudo apt upgrade
 sudo apt install chromium-browser
 sudo apt install vim
+sudo apt install ctags
 sudo apt install git
 sudo apt install git-doc
 sudo apt install synapse
