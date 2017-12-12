@@ -9,7 +9,7 @@ sudo apt install synapse
 sudo apt install shutter
 sudo apt install di
 sudo apt install tree
-sudo apt install glipper
+sudo apt install clipit
 sudo apt install libsodium-dev
 sudo apt-get install ibus-sunpinyin sunpinyin-data
 
@@ -19,6 +19,10 @@ echo "deb [ arch=amd64,arm64 ] http://repo.mongodb.org/apt/ubuntu xenial/mongodb
 sudo apt-get update
 sudo apt-get install -y mongodb-org
 sudo service mongod start
+
+# download package from internet
+# postman
+wget https://dl.pstmn.io/download/latest/linux64 -O postman.tar.gz
 
 # setup keystone.js
 sudo npm install -g generator-keystone
