@@ -26,7 +26,9 @@ sudo service mongod start
 
 # setup .bashrc
 
-# setup shared directory
+# setup shared directory, install vmware tools after creating shared directories on host machine
+sudo apt install open-vm-tools
+sudo apt install open-vm-tools-desktop
 
 
 
