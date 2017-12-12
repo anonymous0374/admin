@@ -10,6 +10,7 @@ sudo apt install di
 sudo apt install tree
 sudo apt install glipper
 sudo apt install libsodium-dev
+sudo apt-get install ibus-sunpinyin sunpinyin-data
 
 # install tools from packages
 
