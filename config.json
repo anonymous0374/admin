@@ -1,0 +1,12 @@
+{
+  "server": "jp8.relay.cn2.moe",
+  "server_port": 11542,
+  "protocol": "auth_aes128_sha1",
+  "password": "3226zhouKAI@@!!",
+  "method": "chacha20",
+  "obfs": "tls1.2_ticket_auth",
+  "timeout": 120,
+  "connect_verbose_info": 0,
+  "fast_open": false,
+  "local_port": 1080
+}
