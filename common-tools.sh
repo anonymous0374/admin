@@ -2,6 +2,13 @@
 sudo apt update && sudo apt upgrade
 sudo apt install chromium-browser
 sudo apt install vim
+sudo apt install git
+sudo apt install git-doc
+sudo apt install synapse
+sudo apt install shutter
+sudo apt install di
+sudo apt install tree
+sudo apt install glipper
 
 # install tools from packages
 
