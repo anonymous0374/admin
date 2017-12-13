@@ -12,6 +12,7 @@ sudo apt install tree
 sudo apt install clipit
 sudo apt install libsodium-dev
 sudo apt-get install ibus-sunpinyin sunpinyin-data
+sudo apt install curl
 
 # install mongodb server
 sudo apt-key adv --keyserver hkp://keyserver.ubuntu.com:80 --recv 0C49F3730359A14518585931BC711F9BA15703C6
