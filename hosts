@@ -1,0 +1,18 @@
+127.0.1.1	enigma
+127.0.0.1	localhost
+
+127.0.0.1 dev.tf56.com              #domain name for local development environment
+127.0.0.1 mpa.tf56.com              #domain name for local development environment
+127.0.0.1 publish.tf56.com          #domain name for published codes
+10.7.28.9 yunbao.test.tf56.com      #domain name for third-party login system
+#10.7.28.14 b2btest.tf56.com        #domain name where backend service are hosted 
+10.7.28.9 b2btest.tf56.com          #domain name where frontend codes are deployed 
+10.50.5.9 test2.tf56.com
+10.50.7.43 dingcheng.tf56.com
+
+# The following lines are desirable for IPv6 capable hosts
+::1     ip6-localhost ip6-loopback
+fe00::0 ip6-localnet
+ff00::0 ip6-mcastprefix
+ff02::1 ip6-allnodes
+ff02::2 ip6-allrouters
